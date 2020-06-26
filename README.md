@@ -33,9 +33,16 @@ result: 10
 # The operators 
 
 "+" additon
+
 "-" subtraction
+
 "*" multiplication
+
 "/" division
+
 " declare expresion
+
 ' differentiate
+
 & evalutation
+
